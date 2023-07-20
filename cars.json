@@ -1,0 +1,137 @@
+[
+  {
+    "size": "s",
+    "fuel": "gasoline",
+    "doors": 3,
+    "transmission": "auto",
+    "id": 1,
+    "trips": [
+      {
+        "start": 0,
+        "end": 5,
+        "description": "Groceries",
+        "id": 1
+      },
+      {
+        "start": 5,
+        "end": 218,
+        "description": "Commute Amsterdam-Rotterdam",
+        "id": 2
+      },
+      {
+        "start": 218,
+        "end": 257,
+        "description": "Weekend beach trip",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "size": "s",
+    "fuel": "electric",
+    "doors": 4,
+    "transmission": "manual",
+    "id": 2,
+    "trips": [
+      {
+        "start": 0,
+        "end": 5,
+        "description": "Groceries",
+        "id": 1
+      },
+      {
+        "start": 5,
+        "end": 218,
+        "description": "Commute Amsterdam-Rotterdam",
+        "id": 2
+      },
+      {
+        "start": 218,
+        "end": 257,
+        "description": "Weekend beach trip",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "size": "m",
+    "fuel": "gasoline",
+    "doors": 3,
+    "transmission": "auto",
+    "id": 3,
+    "trips": [
+      {
+        "start": 0,
+        "end": 5,
+        "description": "Groceries",
+        "id": 1
+      },
+      {
+        "start": 5,
+        "end": 218,
+        "description": "Commute Amsterdam-Rotterdam",
+        "id": 2
+      },
+      {
+        "start": 218,
+        "end": 257,
+        "description": "Weekend beach trip",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "size": "l",
+    "fuel": "gasoline",
+    "doors": 2,
+    "transmission": "auto",
+    "id": 4,
+    "trips": [
+      {
+        "start": 0,
+        "end": 5,
+        "description": "Groceries",
+        "id": 1
+      },
+      {
+        "start": 5,
+        "end": 218,
+        "description": "Commute Amsterdam-Rotterdam",
+        "id": 2
+      },
+      {
+        "start": 218,
+        "end": 257,
+        "description": "Weekend beach trip",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "size": "s",
+    "fuel": "gasoline",
+    "doors": 2,
+    "transmission": "auto",
+    "id": 6,
+    "trips": [
+      {
+        "start": 0,
+        "end": 5,
+        "description": "Groceries",
+        "id": 1
+      },
+      {
+        "start": 5,
+        "end": 218,
+        "description": "Commute Amsterdam-Rotterdam",
+        "id": 2
+      },
+      {
+        "start": 218,
+        "end": 257,
+        "description": "Weekend beach trip",
+        "id": 3
+      }
+    ]
+  }
+]
